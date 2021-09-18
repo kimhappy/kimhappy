@@ -6,7 +6,7 @@ Hi! I'm *Hwanhee "Asher" Kim* from South Korea.
   - 📧 kimhappy@hanyang.ac.kr
 - 🏢 Gaudio Lab, Inc. - Software Engineer
   - 📧 x@gaudiolab.com
-- 🔥 C++ / Rust / Python
+- 🔥 C++ / Rust / Assembly
 - 🌱 Software Architecture / Programming Language
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=POMMI3R&show_icons=true&hide_border=true&count_private=true)
