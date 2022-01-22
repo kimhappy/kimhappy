@@ -7,7 +7,7 @@ Hi! I'm *Hwanhee "Asher" Kim* from South Korea.
 - 🏢 Gaudio Lab, Inc. - Software Engineer
     - 📧 x@gaudiolab.com
 - 🔥 C++ / Rust
-- 🌱 Software Architecture / Programming Language
+- 🌱 DSP Optimization / Software Architecture / Programming Language
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hwanhee-kim-86072b1a1/)](https://www.linkedin.com/in/hwanhee-kim-86072b1a1/)
 
