@@ -1,13 +1,13 @@
-### 👋
+# 👋
 
 Hi! I'm *Hwanhee "Asher" Kim* from South Korea.
 
-- 🏫 Hanyang University - Computer Software Engineering
-    - 📧 kimhappy@hanyang.ac.kr
 - 🏢 Gaudio Lab, Inc. - Software Engineer
     - 📧 x@gaudiolab.com
-- 🔥 C++ / Rust
-- 🌱 DSP Optimization / Software Architecture / Programming Language
+- 🏫 Hanyang University - Computer Software Engineering
+    - 📧 kimhappy@hanyang.ac.kr
+- 🔥 C++ / Rust / ...
+- 🌱 Digital Signal Processing / Software Architecture
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hwanhee-kim-86072b1a1/)](https://www.linkedin.com/in/hwanhee-kim-86072b1a1/)
 
