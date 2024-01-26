@@ -3,7 +3,6 @@
 Hi! I'm *Hwanhee "Asher" Kim* from South Korea.
 
 - 🏫 Hanyang University - Computer Software Engineering
-    - 📧 kimhappy@hanyang.ac.kr
 - 🔥 Modern C++ / Rust / ...
 - 😎 On-Device Inference Engine / Embedded System  / Digital Signal Processing
 
